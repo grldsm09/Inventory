@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+**/__pycache__/
+.mypy_cache/
+output/
+template/*.xlsx
+template/*.xlsm

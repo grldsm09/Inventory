@@ -1,0 +1,1 @@
+"""Inventory Generator user interface."""
